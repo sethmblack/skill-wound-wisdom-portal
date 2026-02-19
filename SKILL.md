@@ -3,8 +3,9 @@ name: wound-wisdom-portal
 description: Transform the experience of suffering from meaningless pain to meaningful opening, revealing what the wound is making possible.
 license: MIT
 metadata:
-  version: 1.0.1
   author: sethmblack
+  version: 1.0.5336
+repository: https://github.com/sethmblack/paks-skills
 keywords:
 - transformation
 - wound-wisdom-portal
